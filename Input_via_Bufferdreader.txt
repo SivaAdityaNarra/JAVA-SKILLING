@@ -1,0 +1,8 @@
+// Taking input Using Bufferd reader
+// Uses two more classes InputStreamReader and System.In
+//BufferedReader reader=new BufferedReader(new InputStreamReader(System.In));
+
+
+// Taking input through reader.readline
+//String s=readere.readLine();
+

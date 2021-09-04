@@ -1,0 +1,12 @@
+class Forloop
+{	public static void main(String args[])
+	{	if (args[0]==null)
+		{ 	System.out.println("No values");
+		}
+		else
+		{ 	for (i=0;i<args[].len();i++)
+			{	System.out.println(args[i]);
+			}
+		}	
+	}
+}

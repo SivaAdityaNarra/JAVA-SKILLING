@@ -1,0 +1,8 @@
+// Cosole no need to import any package
+
+class Console_input
+{	public static void main(String args[])
+	{	
+	}
+
+}

@@ -1,0 +1,3 @@
+// Scanner class fro java.util
+// Create an object
+// nextLine(),nextInt,nextBool(),nextFloat(),nextDouble(),nextByte();
